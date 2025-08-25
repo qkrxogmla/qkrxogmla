@@ -1,4 +1,3 @@
-# Park TAEHEE 🦋
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a3d3ff,100:ffa3a3&height=240&text=Taehee%20Park&animation=fadeIn&fontColor=fffafd&fontSize=60" />
     </div>
