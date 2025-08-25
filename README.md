@@ -3,7 +3,9 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 😊 Introduce </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 👋 안녕하세요! 프론트엔드 개발을 중심으로 React, TypeScript 기반 프로젝트를 진행하고 있는 Taehee Park입니다.  </li><li> 🎓 Konkuk University, Computer Science and Engineering (2024.03 ~ )  </li></li>🛠 Activities & Experiences</li><li> 피로그래밍 22기 (2024.12 ~ 2025.02)  </li><li> 피로그래밍 23기 운영팀장 (2025.02 ~ 2025.05)  </li><li> 피로니어 프론트엔드 (2025.03 ~ 2025.05)  </li><li> 쿠잇 웹 (2025.03 ~ 2025.08)  </li><li> 쿠잇 웹 파트장 (2025.08 ~ )  </li><li> 구름톤 프론트엔드 (2025.03 ~ )   </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 👋 안녕하세요! 프론트엔드 개발을 중심으로 React, TypeScript 기반 프로젝트를 진행하고 있는 Taehee Park입니다.  </li><li> 🎓 Konkuk University, Computer Science and Engineering (2024.03 ~ )  </li>    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Activities & Experiences </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
+        <li> 피로그래밍 22기 (2024.12 ~ 2025.02)  </li><li> 피로그래밍 23기 운영팀장 (2025.02 ~ 2025.05)  </li><li> 피로니어 프론트엔드 (2025.03 ~ 2025.05)  </li><li> 쿠잇 웹 (2025.03 ~ 2025.08)  </li><li> 쿠잇 웹 파트장 (2025.08 ~ )  </li><li> 구름톤 프론트엔드 (2025.03 ~ )   </div> 
     </div>
      <img src="https://github.com/qkrxogmla/qkrxogmla/blob/output/github-contribution-grid-snake.svg"/>
     <div style="text-align: left;">
