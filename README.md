@@ -11,12 +11,12 @@
 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📌 Activities & Experiences </h2>  
   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
-    <li> 피로그래밍 22기 (2024.12 ~ 2025.02) </li>
-    <li> 피로그래밍 23기 운영팀장 (2025.02 ~ 2025.05) </li>
-    <li> 피로니어 프론트엔드 4기 (2025.03 ~ 2025.05) </li>
-    <li> 쿠잇 웹 5기 (2025.03 ~ 2025.08) </li>
-    <li> 쿠잇 웹 6기 파트장 (2025.08 ~ ) </li>
-    <li> 구름톤 프론트엔드 4기 (2025.03 ~ ) </li>
+    <li> Pirogramming 22rd (2024.12 ~ 2025.02) </li>
+    <li> Pirogramming 23rd 운영팀장 (2025.02 ~ 2025.05) </li>
+    <li> Pironeer Frontend 4기 (2025.03 ~ 2025.05) </li>
+    <li> Kuit Web 5기 (2025.03 ~ 2025.08) </li>
+    <li> Kuit Web 6기 파트장 (2025.08 ~ ) </li>
+    <li> goormthon Frontend 4기 (2025.03 ~ ) </li>
   </div>
 </div>
 
