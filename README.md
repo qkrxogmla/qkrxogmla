@@ -2,6 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a3d3ff,100:ffa3a3&height=240&text=Taehee%20Park&animation=fadeIn&fontColor=fffafd&fontSize=60" />
 </div>
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=qkrxogmla&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/qkrxogmla"
+  width="600"
+  height="300"
+/>
+</a>
+
 <div style="text-align: left;"> 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 😊 Introduce </h2>  
   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
